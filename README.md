@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋, soy Tomas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<div align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
+
+<h1 align="center">Hola 👋, soy Tomas</h1>
 <h3>💻 Full Stack Developer (ASP.NET Core MVC / JavaScript / SQL Server)
 </h3>
 
@@ -28,20 +30,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" style="display:inline-block; margin-right:10px;" />
 </span>
 
 <h2>Back-end</h2>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"  width="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/>
+   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </span>
 
 <h2>Herramientas y plataformas</h2>
 <span>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="display:inline-block; margin-right:10px;" />
 </span>
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+
+### ⚙️ &nbsp;Análisis de GitHub
+
+<p>
+  <a href="https://github.com/tomaspp13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomaspp13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/tomaspp13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomaspp13&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
