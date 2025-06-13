@@ -12,7 +12,7 @@
 
 - 📫 Cómo contactarme: **tomassilvanunez@gmail.com**
 
-- ⚡ Me interesa el desarrollo web, la lógica de programación y seguir creciendo como desarrollador
+- ⚡ Me interesa el desarrollo web, solucionar problemas y seguir creciendo como desarrollador
 
 <h3 align="center">Contactame:</h3>
 <div align="center">
