@@ -6,7 +6,7 @@
 
 - 🎯 Actualmente estoy mejorando mis habilidades en **ASP.NET Core MVC y JavaScript**
 
-- 🧠 Aprendiendo más sobre **buenas prácticas de backend, Entity Framework y javascript**
+- 🧠 Aprendiendo más **buenas prácticas de backend, Entity Framework y javascript**
 
 - 🤝 Buscando colaborar en proyectos de **desarrollo web full stack o backend**
 
