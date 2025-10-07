@@ -4,7 +4,7 @@
 <h3>💻 Full Stack Developer (ASP.NET Core MVC / JavaScript / SQL Server)
 </h3>
 
-- 🎯 Actualmente estoy mejorando mis habilidades en **ASP.NET Core MVC y JavaScript**
+- 🎯 Actualmente estoy aprendiendo **React y Ado.Net**
 
 - 🧠 Aprendiendo más sobre **.Net, Entity Framework y Javascript**
 
